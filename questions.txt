@@ -1,0 +1,2 @@
+* How should I go about documenting components
+* When having multiple routes, should I put the components used for each route into its own file within lib
