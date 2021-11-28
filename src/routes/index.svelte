@@ -13,7 +13,7 @@
 		</p>
 		<p>
 			Key Codes was my second project which was just something quick to fill in a slot in my menu
-			bar. It's turned out to be quite useful.It was my first attempt without having a tutorial to
+			bar. It's turned out to be quite useful. It was my first attempt without having a tutorial to
 			fall back on if things went wrong.
 		</p>
 	</div>
