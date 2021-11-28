@@ -1,2 +1,4 @@
 * How should I go about documenting components
 * When having multiple routes, should I put the components used for each route into its own file within lib
+* Should I not touch body and #svelte (or just set to 100vh), then have a container within each component that stretches to fit, then within that we have our visible
+component. I'm just thinking in growth. The current way I have it could cause issues down the line.

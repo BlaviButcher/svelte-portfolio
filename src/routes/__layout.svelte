@@ -4,10 +4,10 @@
 			<a href="/">Home</a>
 		</li>
 		<li>
-			<a href="/keycodes">Key Codes</a>
+			<a href="/todo-list">Todo List</a>
 		</li>
 		<li>
-			<a href="/todo-list">Todo List</a>
+			<a href="/keycodes">Key Codes</a>
 		</li>
 	</ul>
 </nav>
@@ -37,9 +37,10 @@
 	ul {
 		display: flex;
 		list-style: none;
+		padding: 0;
 	}
 
-	li {
-		margin-left: 10px;
+	li:not(:first-child) {
+		margin-left: 20px;
 	}
 </style>
