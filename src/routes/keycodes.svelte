@@ -36,8 +36,6 @@
 </div>
 
 <style>
-
-
 	.top-container {
 		display: flex;
 		justify-content: center;
